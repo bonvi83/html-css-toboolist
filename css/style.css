@@ -9,6 +9,11 @@
     width: 100%;
 }
 
+/* non funziona, ne padding ne margin*/
+.header {
+    padding-left: 30px;
+}
+
 h1 {
     display: inline-block;
 }
@@ -22,10 +27,14 @@ main {
     margin-top: 5%;
     margin-left: 15%;
     margin-right: 15%;
+    padding: 4%;
+}
+
+.bottoni {
+    border-bottom: 2px solid black;
 }
 
 .liste {
-    padding: 4%;
 }
 
 ul {
