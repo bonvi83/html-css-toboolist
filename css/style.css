@@ -4,9 +4,11 @@
     box-sizing: border-box;
 }
 
-/* non funziona. perchè? */
-.header {
+/* non funziona il display, perchè? */
+.titolo {
     display: inline-block;
+    background-color: white;
+    width: 100%;
 }
 
 
@@ -17,9 +19,11 @@ body {
 /* questa non ho capito, ho fatto copia e incolla */
 main {
     background-color: white;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-top: -100px;
-    margin-left: -100px;
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+ul {
+    list-style: none;
 }
