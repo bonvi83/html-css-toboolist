@@ -4,6 +4,18 @@
     box-sizing: border-box;
 }
 
+body {    
+    background-color: rgb(134, 129, 129);
+}
+
+main {
+    background-color: white;
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 4%;
+}
+
 .titolo {
     background-color: white;
     width: 100%;
@@ -18,16 +30,8 @@ h1 {
     display: inline-block;
 }
 
-body {    
-    background-color: rgb(134, 129, 129);
-}
-
-main {
-    background-color: white;
-    margin-top: 5%;
-    margin-left: 15%;
-    margin-right: 15%;
-    padding: 4%;
+.bottone {
+    padding: 10px;
 }
 
 .bottoni {
