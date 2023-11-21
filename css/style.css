@@ -30,15 +30,29 @@ h1 {
     display: inline-block;
 }
 
-.bottone {
-    padding: 10px;
-}
-
 .bottoni {
     border-bottom: 2px solid black;
 }
 
-.liste {
+.bottone-blu , .bottone-bianco {
+    padding: 5px;
+    margin-bottom: 3px;
+}
+
+.bottone-blu{
+    background-color: lightblue;
+}
+
+.bottone-bianco {
+    background-color: white;
+}
+
+.lista-uno , .lista-due , .lista-tre {
+    margin-bottom: 10px;
+}
+
+.lista-uno {
+    margin-top: 5px;
 }
 
 ul {
