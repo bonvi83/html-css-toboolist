@@ -63,9 +63,9 @@ ul {
 }
 
 /* non funziona */
-.prova {
-    color: black;
-    background-color: rgb(73, 245, 245)40, 251, 255);
-    border-radius: 50%;
+#editorial {
+    color: white;
+    background-color: rgb(99, 239, 239);
+    border-radius: 10px;
     padding: 5px;
 }
